@@ -1,0 +1,8 @@
+"Time","Percentage","Description"
+0,0,""
+1,9.5,"Basic Execution"
+3,57.1,"Tables 1 and 2 scripted"
+9,58.1,"Figures 1 and 2 FP method scripted (5% verified)"
+11,60.3,"Complete Figure 3"
+12,60.6,"Figure 4 scripted (5% verified)"
+24.2,60.6,"Attempt to implement CFD method failed"
